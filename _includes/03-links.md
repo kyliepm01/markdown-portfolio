@@ -1,1 +1,1 @@
-[Kylie GitHub] (https://github.com/kyliepm01/markdown-portfolio)
+[Kylie GitHub](https://github.com/kyliepm01/markdown-portfolio)
